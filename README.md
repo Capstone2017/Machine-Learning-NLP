@@ -1,4 +1,4 @@
-# UC Berkeley: Patent Claim Prediction
+# Patent Claim Prediction
 Machine-Learning-NLP
 
 
@@ -6,7 +6,7 @@ _**Team members:**_ [Xiaonan Zhou](https://github.com/GiannaJo), [Zhipeng Yu](ht
 
 Instructor: Prof.Lee Fleming , with GSI Guan-Cheng Li
 
-Master of Engineering Capstone Project
+UC Berkeley Master of Engineering Capstone Project
 
 ---
 
